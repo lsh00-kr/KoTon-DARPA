@@ -1,0 +1,9 @@
+﻿node_type,node_index,uuid,description,evidence,source,evidence_status,training_label
+process,0,06187E2A-0000-0000-0000-000000000020,firefox,shellcode_connection,original_log_and_report,attack_related,-1
+process,68,7F1FD92F-0000-0000-0000-000000000020,firefox,shellcode_connection,original_log_and_report,attack_related,-1
+process,154,6818A92B-0000-0000-0000-000000000020,/home/admin/clean,execute_file,original_log_and_report,attack_related,-1
+file,1214,0100D00F-44C5-0600-0000-00006E15B00E,/home/admin/clean,executed_file,original_log_and_report,attack_related,-1
+socket,0,80370C6E-4C81-8D2B-B0CB-500000000040,141.43.176.203,shellcode_server,original_log_and_report,attack_related,-1
+socket,1,80370C6E-8581-8D2B-B0CB-500000000040,141.43.176.203,shellcode_server,original_log_and_report,attack_related,-1
+socket,3,80370C6E-42AD-9299-4497-500000000040,146.153.68.151,drakon_loader,original_log_and_report,attack_related,-1
+socket,4,80370C6E-AAB0-A174-5848-500000000040,161.116.88.72,drakon_server,original_log_and_report,attack_related,-1
